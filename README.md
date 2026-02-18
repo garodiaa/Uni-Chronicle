@@ -31,7 +31,7 @@ Uni-Chronicle is a Linux-based automation suite that keeps semester assets organ
 
 ### System Flow Diagram
 
-![Uni-Chronicle system flow](main/System%20Flow%20Diagram.png)
+![Uni-Chronicle system flow](System%20Flow%20Diagram.png)
 
 Initial setup flows through directory creation, backup scheduling, resource extraction, and final termination, covering the full academic lifecycle.
 
